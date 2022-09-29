@@ -10,7 +10,7 @@ class PhotoEntry extends React.Component {
     // console.log("this.props.src = " + this.props.src);
     // console.log("-------------------------------");
 
-    const image_path = "../images/" + this.props.src;
+    const image_path = "./images/" + this.props.src;
 
     return <div className="photo-entry-block" >
               <a href={image_path}>

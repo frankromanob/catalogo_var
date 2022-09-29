@@ -9,8 +9,9 @@ function App() {
       <header className="App-header">
         <BannerImage />
         <div>
-          <h1>Welcome to my Catalog</h1>
+          <h1>Welcome to my Catalogs</h1>
           <h3>ROMANO</h3>
+          <img className="banner" src="../images/banner.jpg" alt="Banner de prueba"/>
           <AlbumMaker />
         </div>
       </header>

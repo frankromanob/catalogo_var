@@ -5,7 +5,7 @@ function BannerImage(){
 
   return (
     <div>
-      <img className="banner" src="../images/banner.jpg" alt="Banner 1"/>
+      <img className="banner" src="banner.jpg" alt="Banner de prueba"/>
     </div>
   )
 }
