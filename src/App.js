@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <BannerImage />
         <div>
-          <h1>Welcome to my PhotoJournal</h1>
+          <h1>Welcome to my Catalog</h1>
           <h3>ROMANO</h3>
           <AlbumMaker />
         </div>
